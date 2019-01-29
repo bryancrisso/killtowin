@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "kill to win webgl.data.unityweb",
+"asmCodeUrl": "kill to win webgl.asm.code.unityweb",
+"asmMemoryUrl": "kill to win webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "kill to win webgl.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
